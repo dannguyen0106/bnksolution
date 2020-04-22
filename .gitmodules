@@ -1,0 +1,4 @@
+[submodule "impirix/ns-odoo"]
+	path = impirix/ns-odoo
+	url = git@github.com:impirix/ns-odoo.git
+	branch = master
